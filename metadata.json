@@ -1,0 +1,6 @@
+{
+  "name": "หารบิล (HaanBill) - หารค่าอาหารและค่าเหล้าแยกคนดื่ม/ไม่ดื่ม",
+  "description": "แอพหารค่าอาหารและค่าเหล้าสำหรับสายปาร์ตี้ คำนวณแยกตามคนกินและคนไม่กิน หารค่าส่วนกลาง พร้อมคิด Service Charge / VAT และสรุปยอดแชร์ลง LINE ทันที",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
